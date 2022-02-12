@@ -398,7 +398,7 @@ void (empty response body)
 ### HTTP response details
 | Status code | Description | Response headers |
 |-------------|-------------|------------------|
-| **400** | If the id does not match the id of the weather forecast |  -  |
+| **400** | If the id does not match the id of the weather forecast or the weatherForecast object values does not meet the criteria |  -  |
 | **401** | When user has not been authenticated or is unauthorized based on their role |  -  |
 | **404** | If the weather forecast with the specified id does not exist |  -  |
 | **415** | When content type of request or response is not allowed |  -  |
