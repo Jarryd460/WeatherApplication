@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.Api", "Weather.Api\Weather.Api.csproj", "{529A80B7-A4C1-45A7-BE8C-4F1C9BD63E6F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.Console.Dotnet", "Weather.Console\Weather.Console.Dotnet.csproj", "{51A83635-1372-4834-9D77-ED9E2C141DAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather.Console.Dotnet", "Weather.Console.Dotnet\Weather.Console.Dotnet.csproj", "{51A83635-1372-4834-9D77-ED9E2C141DAB}"
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Weather.Console.Node", "Weather.Console.Node\Weather.Console.Node.njsproj", "{2D349F4A-D270-468E-9CA8-C27AD7464600}"
 EndProject
