@@ -1,0 +1,12 @@
+.gitignore
+api.ts
+api/apis.ts
+api/authenticateApi.ts
+api/weatherForecastApi.ts
+git_push.sh
+model/httpValidationProblemDetails.ts
+model/loginCredentials.ts
+model/models.ts
+model/problemDetails.ts
+model/token.ts
+model/weatherForecastDto.ts
