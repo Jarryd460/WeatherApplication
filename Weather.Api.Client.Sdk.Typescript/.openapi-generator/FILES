@@ -1,4 +1,5 @@
 .gitignore
+.openapi-generator-ignore
 api.ts
 api/apis.ts
 api/authenticateApi.ts
@@ -10,3 +11,5 @@ model/models.ts
 model/problemDetails.ts
 model/token.ts
 model/weatherForecastDto.ts
+package.json
+tsconfig.json

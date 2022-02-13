@@ -57,6 +57,6 @@
 			<Output TaskParameter="ExitCode" PropertyName="ErrorCode" />
 		</Exec>		
 		<Exec Command="openapi-generator-cli generate -i $(OutputPath)swagger.json -g csharp-netcore -o $(SolutionDir)Weather.Api.Client.Sdk.DotNet --additional-properties packageName=Weather.Api.Client.Sdk.DotNet" />
-		<Exec Command="openapi-generator-cli generate -i $(OutputPath)swagger.json -g typescript-node -o $(SolutionDir)Weather.Api.Client.Sdk.Typescript --additional-properties packageName=Weather.Api.Client.Sdk.Typescript" />
+		<Exec Command="openapi-generator-cli generate -i $(OutputPath)swagger.json -g typescript-node -o $(SolutionDir)Weather.Api.Client.Sdk.Typescript --additional-properties=packageName=Weather.Api.Client.Sdk.Typescript,npmName=Weather.Api.Client.Sdk.Typescript" />
 	</Target>
 </Project>

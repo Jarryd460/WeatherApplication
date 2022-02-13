@@ -58,3 +58,4 @@ A Web Api project demonstrating the generation of Open Api/Swagger documentation
 	* https://code-maze.com/using-the-problemdetails-class-in-asp-net-core-web-api/amp/
 	* https://github.com/khellang/Middleware
 * Tools that take advantage of OpenApi documents: https://openapi.tools/#mock
+* OpenApi Generator examples: https://github.com/OpenAPITools/openapi-generator/tree/master/samples/client/petstore/typescript-node/npm
